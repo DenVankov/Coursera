@@ -9,4 +9,4 @@ Some coursera courses
 [(26, 8), (21, 6), (22, 6), (40, 2), (19, 1), (20, 1)]
 ```
 
-[File](Python%20Web/coursera_assignment_tmp/req/friends.py) - Для использования первоначально введите ACCESS KEY и username.
+[friends.py](Python%20Web/coursera_assignment_tmp/req/friends.py) - Для использования первоначально введите ACCESS KEY и username.
