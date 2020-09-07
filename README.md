@@ -23,4 +23,6 @@ a=1, a=+1, a=-1, a=b, a=b+100, a=b-100, b+=10, b+=+10, b+=-10, b+=b, b+=b+100, b
 
 Выражения могут встречаться внутри текста, например loremc-=a+10ipsuma-=adb+=10olorsitamet.
 
+[Тык](https://regex101.com/) - сайт для проверки регулярных выражений.
+
 [regexp.py](Python%20Web/coursera_assignment_tmp/regexp_sample/regexp.py).
